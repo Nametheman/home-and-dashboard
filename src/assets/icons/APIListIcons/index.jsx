@@ -1,0 +1,9 @@
+export { default as AdvScrapperIcon } from './adv_scraper.png';
+export { default as EmailIcon } from './email_verification.png';
+export { default as IPIcon } from './ipstack.png';
+export { default as ScrapperIcon } from './scraper.png';
+export { default as BinCheckIcon } from './bincheck.png';
+export { default as NumVerifyIcon } from './numverify.png';
+export { default as RecipeIcon } from './recipe.png';
+export { default as ExchangeRateIcon } from './exchangeratesapi.png';
+export { default as TopRated } from './top-rated.svg';
